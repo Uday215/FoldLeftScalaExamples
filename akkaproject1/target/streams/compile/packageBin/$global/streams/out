@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\akka-quickstart-scala_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Printer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Printer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\AkkaQuickstart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\AkkaQuickstart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Greeter$WhoToGreet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Greeter$WhoToGreet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Greeter$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Greeter$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Printer$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Printer$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Printer$Greeting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Printer$Greeting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\AkkaQuickstart$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\AkkaQuickstart$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Printer$Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Printer$Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Greeter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Greeter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Printer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Printer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\AkkaQuickstart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\AkkaQuickstart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Greeter$Greet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Greeter$Greet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\uday\Greeter$WhoToGreet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\10686\Documents\akkaAssignments\akkaproject1\target\scala-2.12\classes\com\uday\Greeter$WhoToGreet$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
